@@ -1,0 +1,193 @@
+body{
+    background-color: #ECE3CE;
+}
+
+header{
+    padding-bottom: 50px;
+}
+
+.logoo{
+    height: 60px;
+    width: auto;
+}
+
+.nyot{
+    margin: -15px;
+    padding: 20px;
+    font-size: 28px;
+}
+
+.isiisi{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 5px;
+}
+
+.digidow{
+    padding-top: 25px;
+    color: #ECE3CE;
+}
+
+h1{
+    padding-top: 10px;
+    text-align: center;
+    font-size: 1000%;
+    padding-bottom: 50px;
+}
+
+.digidaw{
+    padding-top: 25px;
+    color: #B1A68E;
+    text-decoration: none;
+}
+
+.PFP{
+    padding-right: 15px;
+    height: 70px;;
+    width: auto;
+}
+
+.searchBar{
+    padding-top: 20px;
+    height: 40px;
+    width: auto;
+}
+
+.HomepagePic{
+    margin-top: 15px;
+    margin-left: -15px;
+    margin-bottom: 20px;
+    width: 102%;
+    height: auto;
+}
+
+.title{
+    font-size: 200%;
+    font-weight: bold;
+    color:#3A4D39;
+    margin-bottom: 10px;
+    margin-left: 80px;
+}
+
+hr{
+    background-color:#3A4D39;
+    height: 3px;
+} 
+
+.card-container{
+        
+}
+
+.card-product{
+    width: 300px;
+    background-color: #F9F4E7;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+    margin: 20px;
+}
+
+.card-recipe{
+    width: 400px;
+    height: 310.63px;
+    background-color: #F9F4E7;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+    margin: 20px;
+}
+
+.photo-product{  
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding-top: 20px;
+    height:200px;
+    width: auto;
+}
+
+.photo-recipe{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding-top: 20px;
+    height:210px;
+    width: auto;
+}
+
+.card-desc{
+    padding: 5px;
+    text-align: center;
+}
+
+/* ABOUT US PAGE */
+
+.aboutUs{
+    text-align: center;
+    background-color: #B1A68E;
+    margin-left: 300px;
+    margin-right: 300px;
+    padding-bottom: 40px;
+    padding-top: 10px;
+    border-radius: 5px 80px;
+}
+
+.cihuy{
+    margin-left: 200px;
+    margin-right: 200px;
+    font-size: 25px;
+}
+
+h4{
+    margin-left: 200px;
+    margin-right: 200px;
+    font-size: 25px;
+}
+
+.ea{
+    margin-left: 200px;
+    margin-right: 200px;
+    font-size: 20px;
+}
+
+/* CONTACT US PAGE */
+
+.mamankresing{
+    background-color:#F9F4E7;
+    margin-right: 400px;
+    margin-left: 400px;
+    padding: 30px;
+    border-radius: 20px;
+}
+
+.om{
+    background-color: white;
+    height: 28px;
+    border-radius: 5px
+}
+
+.ahay{
+    color: #9F7B5F;
+    font-weight: bolder;
+    font-size:large;
+    margin-bottom: 5px;
+}
+
+.tayo{
+    background-color: white;
+    height: 200px;
+    border-radius: 5px
+}
+
+.buttonijo{
+    margin:0 auto;
+    display:block;
+    text-align: center;
+    background-color: #739072;
+}
+
+.wawie{
+    color: #ECE3CE;
+}
